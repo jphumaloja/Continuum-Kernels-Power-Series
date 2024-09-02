@@ -14,7 +14,7 @@ The algorithm for solving continuum kernel equations is implemented in the funct
 
 ## License
 
-Copyright Jukka-Pekka Humaloja 2024. See LICENCE.txt for licensing information.
+Copyright Jukka-Pekka Humaloja 2024. See LICENSE.txt for licensing information.
 
 ## Acknowledgements
 
