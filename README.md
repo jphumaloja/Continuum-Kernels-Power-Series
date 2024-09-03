@@ -19,3 +19,12 @@ Copyright Jukka-Pekka Humaloja 2024. See LICENSE.txt for licensing information.
 ## Acknowledgements
 
 Funded by the European Union (ERC, C-NORA, 101088147). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
+## Cite this work
+```
+@Unpublished{HumBek24arxivb,
+  author = {J.-P. Humaloja and N. Bekiaris-Liberis},
+  note   = {{arXiv}, 2406.13612, 2024},
+  title  = {On computation of approximate solutions to large-scale backstepping kernel equations via continuum approximation},
+}
+```
