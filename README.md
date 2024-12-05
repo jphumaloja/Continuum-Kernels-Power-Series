@@ -26,7 +26,7 @@ Journal version:
 @article{HumBek25,
 	author = {J-P. Humaloja and N. Bekiaris-Liberis},
 	journal = {Syst. Control Lett.},
-	paper no = {105982},
+	pages = {105982},
 	title = {On computation of approximate solutions to large-scale backstepping kernel equations via continuum approximation},
 	volume = {196},
 	year = {2025}}
