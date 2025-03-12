@@ -1,12 +1,12 @@
 # Power series approach to solving continuum backstepping kernel equations
 
-These codes contain a MATLAB implementation of the power series-based algorithm to solving continuum kernel equations as described in the manusript "On Computation of Approximate Solutions to Large-Scale Backstepping Kernel Equations via Continuum Approximation" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. A preprint of the article is available at [arXiv](https://arxiv.org/abs/2406.13612).
+These codes contain a MATLAB implementation of the power series-based algorithm to solving continuum kernel equations as described in the manusript "On Computation of Approximate Solutions to Large-Scale Backstepping Kernel Equations via Continuum Approximation" by Jukka-Pekka Humaloja and Nikolaos Bekiaris-Liberis. The journal version of the paper can be found [here](https://www.sciencedirect.com/science/article/pii/S0167691124002706) and a preprint is available in [arXiv](https://arxiv.org/abs/2406.13612).
 
 The mathematical background and the documentation for the codes are desribed in the file "codesdoc.pdf.".
 
 ## Requirements
 
-The codes require MATLAB with the Sympbolic Math Toolbox.
+The codes require MATLAB with the Symbolic Math Toolbox.
 
 ## Usage
 
